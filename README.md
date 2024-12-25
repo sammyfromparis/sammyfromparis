@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm [Sammy!](https://github.com/sammyfromparis/)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 ## I'm a Software Engineer
 
 - 👨‍💻 I’m currently working on web application and machine learning projects using python and javascript.
